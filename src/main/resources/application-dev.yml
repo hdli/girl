@@ -1,0 +1,9 @@
+############启动服务对应的端口号 和 请求路径
+server:
+  port: 8080
+  servlet:
+    context-path: /girl
+####
+girl:
+  cupSize: B
+  age: 18
